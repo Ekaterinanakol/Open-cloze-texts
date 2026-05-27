@@ -1,1 +1,2 @@
 Hello, I'm trying to understand how this all works.
+Some changes
